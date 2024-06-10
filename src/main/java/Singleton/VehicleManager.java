@@ -9,7 +9,6 @@ import java.util.List;
  * Singleton class to manage vehicles.
  * This class is responsible for managing a list of Vehicle objects.
  * It provides methods to add a vehicle to the list and to retrieve the list of vehicles.
- * It ensures that only one instance of the VehicleManager class is created.
  *
  */
 public class VehicleManager {
