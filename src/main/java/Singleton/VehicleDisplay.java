@@ -1,15 +1,18 @@
-package Singleton;
 
-import SimpleFactory.Vehicle; /**
- * @author Yongxing Lian
- * @create 2024-06-10-2:15 a.m.
- */
 package Singleton;
 
 import SimpleFactory.Vehicle;
 
+/**
+ * The VehicleDisplay class provides a method to display the vehicles managed by the VehicleManager.
+ * It uses the Singleton pattern to retrieve the instance of the VehicleManager.
+ */
 public class VehicleDisplay {
 
+    /**
+     * Displays the vehicles managed by the VehicleManager.
+     * If no vehicles have been added to the management system, it prints a message saying so.
+     */
     public void displayVehicles() {
         VehicleManager manager = VehicleManager.getInstance();
         if (manager.getVehicles().isEmpty()) {
