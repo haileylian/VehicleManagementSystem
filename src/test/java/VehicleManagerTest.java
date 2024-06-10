@@ -12,7 +12,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  *
  */
 public class VehicleManagerTest {
-
     /**
      * Test case for singleton instance.
      * It verifies that the VehicleManager is a singleton by checking that two instances refer to the same object.

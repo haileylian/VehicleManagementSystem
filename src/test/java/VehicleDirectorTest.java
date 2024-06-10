@@ -4,7 +4,6 @@ import Builder.VehicleBuilder;
 import Builder.VehicleDirector;
 import SimpleFactory.Vehicle;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**

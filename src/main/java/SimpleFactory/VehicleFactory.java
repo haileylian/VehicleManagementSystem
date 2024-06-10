@@ -1,5 +1,4 @@
 package SimpleFactory;
-
 /**
  * This class is a factory for creating Vehicle objects.
  * It provides a static method to create a Vehicle of a specific type with a specific color.

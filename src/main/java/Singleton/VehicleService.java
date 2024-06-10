@@ -6,7 +6,6 @@ import Builder.VehicleBuilder;
 import Builder.VehicleDirector;
 import SimpleFactory.Vehicle;
 import SimpleFactory.VehicleFactory;
-
 import java.util.Scanner;
 
 /**

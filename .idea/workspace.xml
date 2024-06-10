@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e78cde-78a4-49db-8c18-9f3b8917472a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/MotorcycleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/MotorcycleBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/VehicleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/VehicleBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/VehicleDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/VehicleDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleFactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleFactory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleFactory/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleFactory/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleFactory/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleFactory/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleFactory/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleFactory/VehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/VehicleDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/VehicleDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/VehicleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/VehicleManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/VehicleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VehicleDirectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VehicleDirectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VehicleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VehicleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VehicleManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VehicleManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +163,7 @@
       <workItem from="1717963075033" duration="23533000" />
       <workItem from="1717989313033" duration="144000" />
       <workItem from="1717998124675" duration="2753000" />
-      <workItem from="1718001151068" duration="866000" />
+      <workItem from="1718001151068" duration="1269000" />
     </task>
     <servers />
   </component>

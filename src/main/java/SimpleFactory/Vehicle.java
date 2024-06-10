@@ -1,5 +1,4 @@
 package SimpleFactory;
-
 /**
  * This abstract class represents a Vehicle.
  * It provides the structure for specific types of vehicles that will extend this class.

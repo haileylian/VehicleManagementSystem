@@ -1,5 +1,4 @@
 package Builder;
-
 import SimpleFactory.Vehicle;
 
 /**

@@ -1,6 +1,4 @@
-
 package Singleton;
-
 import SimpleFactory.Vehicle;
 
 /**
